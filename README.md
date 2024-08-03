@@ -13,8 +13,3 @@ Welcome to the Master Encrypter and Decrypter project! This Python-based platfor
 
 In today's digital age, securing sensitive information is paramount. Our platform offers a comprehensive range of features, making it an invaluable tool for individuals and organizations alike. Whether you're an artist protecting your digital creations or a business securing confidential communications, our platform provides robust encryption solutions tailored to your needs.
 
-## 🌟 Getting Started
-
-1. **Clone the Repository**: 
-   ```bash
-   git clone https://github.com/yourusername/master-encrypter-decrypter.git
